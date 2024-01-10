@@ -14,6 +14,7 @@ Hash proporcionados en el ejercicio:
 
 
 Revisa si algun archivo fue alterado durante el ultimo ataque y de existir ¿cual seria?
+
 R: El archivo log.txt fue el archivo modificado.
 
 Adjunto la imagen del proceso.
