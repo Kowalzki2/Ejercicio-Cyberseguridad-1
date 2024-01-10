@@ -1,6 +1,7 @@
 Con los datos proporcionados en el ejercicio, se procedio a ejecutar el comando md5sum en el terminal de Kali-Linux.
 
 Paso 1: utilice el comando cd para ubicarme en el directorio de los archivos.
+
 Paso 2: una vez en la ruta, ejecute el comando md5sum *, de esta forma pude escanear todos los archivos que se encontraban en el directorio.
 
 
